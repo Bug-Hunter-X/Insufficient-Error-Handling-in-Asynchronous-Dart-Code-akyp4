@@ -1,0 +1,3 @@
+# Insufficient Error Handling in Asynchronous Dart
+
+This example demonstrates a common issue in Dart's asynchronous programming: inadequate error handling in `async` functions. The provided code attempts to fetch data from a remote API, but its error handling is insufficient, potentially leading to silent failures or unexpected behavior. The solution showcases improved error handling, providing more specific error checks and logging to aid debugging and better inform users.
